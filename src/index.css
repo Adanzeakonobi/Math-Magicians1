@@ -1,20 +1,20 @@
 .display {
-    background-color: grey;
-    color: white;
-    text-align: end;
-    padding: 15px;
-  }
-  
-  .operators {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-  }
+  background-color: grey;
+  color: white;
+  text-align: end;
+  padding: 15px;
+}
 
-  .digis {
-    display: flex;
-  }
+.operators {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
 
-  .calc-btn,
+.digis {
+  display: flex;
+}
+
+.calc-btn,
 .calc-btn1,
 .calc-btn2 {
   width: 157px;
@@ -26,8 +26,8 @@
 }
 
 .orange-btn {
-    display: flex;
-    flex-direction: column;
-    width: 155px;
-    text-align: center;
-  }
+  display: flex;
+  flex-direction: column;
+  width: 155px;
+  text-align: center;
+}
