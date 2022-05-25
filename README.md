@@ -73,10 +73,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 👤 **Adaobi Vivian Okoye**
 
-- GitHub: [@alexander16108](https://github.com/alexander16108)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Instagram: [@codingRex](https://www.instagram.com/codingrex)
-- LinkedIn: [@alexanderodufuye](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/adanzeakonobi) 
+- Twitter: [@twitterhandle](https://twitter.com/Adaebubemmuta)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/okoyeaadaobi)
 
 
 ## 🤝 Contributing
@@ -93,8 +92,3 @@ Give a ⭐️ if you like this project!
 
 - **Facebook** for making such a wonderful framework
 - **Microverse** : for the opportunity to be part of a global network
-
-
-## 📝 License
-
-This project is [MIT](https://github.com/Adanzeakonobi/Math-Magicians1.git/blob/component/LICENSE) licensed.
