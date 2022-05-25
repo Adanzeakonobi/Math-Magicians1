@@ -18,8 +18,8 @@ class Calculator extends React.Component {
       <div className="calculator disflex">
         <div className="solution">
           <span>{total}</span>
-          <span>{next}</span>
           <span>{operation}</span>
+          <span>{next}</span>
         </div>
         <div className="btn-display disflex">
           <div className="operators">
