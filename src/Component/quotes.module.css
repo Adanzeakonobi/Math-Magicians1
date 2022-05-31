@@ -1,0 +1,13 @@
+.quotes {
+  width: 50%;
+  font-size: 20px;
+  line-height: 25px;
+}
+
+.quotesBox {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 60vh;
+}
