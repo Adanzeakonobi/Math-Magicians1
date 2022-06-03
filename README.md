@@ -22,7 +22,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
- - [Netlify]([https://livedemo.com](https://frolicking-frangipane-180df8.netlify.app/)
+ - [Netlify](https://frolicking-frangipane-180df8.netlify.app/)
  
 - [Heroku](https://math-magician1.herokuapp.com/)
 
